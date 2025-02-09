@@ -42,7 +42,7 @@ requests==2.32.2
 requests-toolbelt==1.0.0
 urllib3==2.2.2
 scikit-learn
-skimage
+scipy
 google-auth==2.29.0
 
 # scipy and scikit-learn latest packages are missing on python 3.8
